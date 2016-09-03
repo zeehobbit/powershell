@@ -1,5 +1,10 @@
-# powershell-ad-cleanuip
-Powershell scripts to cleanup AD. The guide below will be used as a reference point to create custom solutions.
+# powershell scripts
+
+---
+
+## Powershell scripts to cleanup AD.
+
+---
 
 http://www.adaxes.com/blog/cleanup-active-directory-with-powershell.html
 
