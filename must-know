@@ -1,9 +1,6 @@
 Add-ADCentralAccessPolicyMember
-
 Adds central access rules to a central access policy in Active Directory
-
 Add-ADgroupmember PhoenixAdmins PhoenixAdmin01, PhoenixAdmin02
-
 Add members to group
 Add-ADResourcePropertyListMember
 Adds one or more resource properties to a resource property list in Active Directory
