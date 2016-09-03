@@ -1,7 +1,5 @@
 # powershell scripts
 
----
-
 ## Powershell scripts to cleanup AD.
 
 ---
